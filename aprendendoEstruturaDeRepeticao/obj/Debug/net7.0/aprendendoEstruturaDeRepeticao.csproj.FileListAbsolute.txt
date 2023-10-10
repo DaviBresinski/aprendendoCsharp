@@ -1,0 +1,15 @@
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\bin\Debug\net7.0\aprendendoEstruturaDeRepeticao.exe
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\bin\Debug\net7.0\aprendendoEstruturaDeRepeticao.deps.json
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\bin\Debug\net7.0\aprendendoEstruturaDeRepeticao.runtimeconfig.json
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\bin\Debug\net7.0\aprendendoEstruturaDeRepeticao.dll
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\bin\Debug\net7.0\aprendendoEstruturaDeRepeticao.pdb
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.dll
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\refint\aprendendoEstruturaDeRepeticao.dll
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.pdb
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\aprendendoEstruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\Rogério\test\aprendendoEstruturaDeRepeticao\obj\Debug\net7.0\ref\aprendendoEstruturaDeRepeticao.dll
