@@ -15,7 +15,7 @@
         else if (Console.ReadLine() == "andrea" || Console.ReadLine() == "valentina")
         {
 
-            Console.WriteLine("este nome nao esta listado e o sujeito e mulher");
+            Console.WriteLine("este nome esta listado e o sujeito e mulher");
         }
         else
         {
