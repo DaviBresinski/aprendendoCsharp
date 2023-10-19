@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 {
     string[] nomes = { "matheus", "davi", "valentina", "andrea" };
@@ -6,13 +6,14 @@
 
     Console.WriteLine("escreva um nome");
 
+    string nome = Console.ReadLine();
     {
-        if (Console.ReadLine() == "matheus" || Console.ReadLine() == "davi")
+        if (nome == "matheus" || nome == "davi")
         {
             Console.WriteLine("este nome esta listado e o sujeito e homem");
         }
 
-        else if (Console.ReadLine() == "andrea" || Console.ReadLine() == "valentina")
+        else if (nome == "andrea" || nome == "valentina")
         {
 
             Console.WriteLine("este nome esta listado e o sujeito e mulher");
@@ -24,7 +25,6 @@
         }
     }
 }
-
 
 
 
