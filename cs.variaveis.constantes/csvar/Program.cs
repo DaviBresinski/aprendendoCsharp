@@ -5,6 +5,8 @@
 
     string nomePesquisa = Console.ReadLine();
 
+    bool existe = false;
+
     foreach (string nome1 in nomes)
     {
         if (nomePesquisa == nome1)
@@ -19,7 +21,7 @@
             // }   
             Console.WriteLine("o nome esta listado");
             
-            
+            existe = true;
             
         }
         // else{
@@ -28,7 +30,16 @@
         // }
 
     }
-        
+    if(existe)
+    {
+        Console.WriteLine("o nome esta listado");
+
+    }
+    else
+    {
+        Console.WriteLine("o nome nao esta listado");
+    }
+            
         
     //     {
     //         Console.WriteLine("este nome esta listado e o sujeito e homem");

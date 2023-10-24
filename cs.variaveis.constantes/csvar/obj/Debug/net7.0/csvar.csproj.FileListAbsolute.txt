@@ -12,3 +12,17 @@ C:\Users\Matheus\Desktop\cs.variaveis.constantes\csvar\obj\Debug\net7.0\refint\c
 C:\Users\Matheus\Desktop\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.pdb
 C:\Users\Matheus\Desktop\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\cs.variaveis.constantes\csvar\obj\Debug\net7.0\ref\csvar.dll
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\bin\Debug\net7.0\csvar.exe
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\bin\Debug\net7.0\csvar.deps.json
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\bin\Debug\net7.0\csvar.runtimeconfig.json
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\bin\Debug\net7.0\csvar.dll
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\bin\Debug\net7.0\csvar.pdb
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.dll
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\refint\csvar.dll
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.pdb
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\csvar.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\aprendendoCsharp\cs.variaveis.constantes\csvar\obj\Debug\net7.0\ref\csvar.dll

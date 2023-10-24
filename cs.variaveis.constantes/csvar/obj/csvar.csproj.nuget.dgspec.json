@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\cs.variaveis.constantes\\csvar\\csvar.csproj": {}
+    "C:\\Users\\Matheus\\Desktop\\aprendendoCsharp\\cs.variaveis.constantes\\csvar\\csvar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\cs.variaveis.constantes\\csvar\\csvar.csproj": {
+    "C:\\Users\\Matheus\\Desktop\\aprendendoCsharp\\cs.variaveis.constantes\\csvar\\csvar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\cs.variaveis.constantes\\csvar\\csvar.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\aprendendoCsharp\\cs.variaveis.constantes\\csvar\\csvar.csproj",
         "projectName": "csvar",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\cs.variaveis.constantes\\csvar\\csvar.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\aprendendoCsharp\\cs.variaveis.constantes\\csvar\\csvar.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\cs.variaveis.constantes\\csvar\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\aprendendoCsharp\\cs.variaveis.constantes\\csvar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
