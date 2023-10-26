@@ -19,7 +19,7 @@
             // {
             //     Console.WriteLine("este nome esta listado e o sujeito e mulher");
             // }   
-            Console.WriteLine("o nome esta listado");
+            //Console.WriteLine("o nome esta listado");
             
             existe = true;
             

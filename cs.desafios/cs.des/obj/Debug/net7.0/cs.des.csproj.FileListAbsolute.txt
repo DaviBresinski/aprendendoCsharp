@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.AssemblyInfo.cs
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\bin\Debug\net7.0\cs.des.exe
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\bin\Debug\net7.0\cs.des.deps.json
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\bin\Debug\net7.0\cs.des.runtimeconfig.json
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\bin\Debug\net7.0\cs.des.dll
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\bin\Debug\net7.0\cs.des.pdb
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.dll
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\refint\cs.des.dll
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.pdb
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\cs.des.genruntimeconfig.cache
+C:\Users\Davi\Desktop\aprendendoCsharp\cs.desafios\cs.des\obj\Debug\net7.0\ref\cs.des.dll
