@@ -1,6 +1,7 @@
-﻿string[] nomes = { "matheus", "davi", "valentina", "andrea" };
+﻿
+string[] nomes = { "matheus", "davi", "valentina", "andrea" };
 
-
+    
     Console.WriteLine("escreva um nome");
 
     string nomePesquisa = Console.ReadLine();
