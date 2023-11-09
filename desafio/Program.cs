@@ -1,5 +1,7 @@
 ﻿//8
 
+
+//8.1-8.4
 // var produto = 3000;
 
 // var Disconto10 = 10 * produto / 100;
@@ -11,22 +13,43 @@
 // var comissaoVendedorAvista = 5 * produtoAvista / 100;
 
 // var comissaoVendedorParcela = 5 * produto / 100;
+// var troca = Convert.ToInt64;
 
-Console.WriteLine("declare um valor para A" );
+//8.5
+// var troca = Convert.ToInt64(null);
 
+// Console.WriteLine("declare um valor para A" );
 
-
-var a =  Console.ReadLine();
-
-int A = Convert.ToInt64(a);
-
-Console.WriteLine(a);
+// var A = Convert.ToInt64(Console.ReadLine());
 
 // System.Console.WriteLine("declare um valor para B");
 
-// int B = Console.ReadLine();
+// var B = Convert.ToInt64(Console.ReadLine());
 
-// Convert.ToInt64();
+// System.Console.WriteLine(@"antes da troca A = {0} B = {1}", A, B );
+
+// troca = A;
+// A = B;
+// B = troca;
+
+// System.Console.WriteLine(@"depois da troca A = {0} B = {1}", A, B );
+
+//8.6
+System.Console.WriteLine("escreva um numero de 4 digitos");
+
+var numero = Convert.ToInt64(Console.ReadLine());
+
+if(numero < 1000 || numero > 9999);
+{
+    break;
+}
+System.Console.WriteLine(numero);
+else {
+
+}
+
+
+
 
 
 
@@ -45,6 +68,11 @@ Console.WriteLine(a);
 
 
 
+
+
+
+
+
 //6
 // Console.WriteLine("escreva o raio do circulo");
 
@@ -53,6 +81,13 @@ Console.WriteLine(a);
 // var area = 3.14 * Convert.ToDouble(raio);
 
 // System.Console.WriteLine(area);
+
+
+
+
+
+
+
 
 //5
 // Console.WriteLine("Digite o seu peso");
@@ -77,12 +112,27 @@ Console.WriteLine(a);
 
 // Console.WriteLine(peso);
 
+
+
+
+
+
+
+
+
 //4
 //Console.WriteLine("Digite sua altura");
 
 //string altura = Console.ReadLine();
 
 //Console.WriteLine("altura: "+altura);
+
+
+
+
+
+
+
 
 //3
 // Console.WriteLine("escolha um numero ");
@@ -114,12 +164,24 @@ Console.WriteLine(a);
 // Console.WriteLine(numero.ToString("N5"));
 
 
+
+
+
+
+
+
+
 //2
 //Console.WriteLine("Davi \nBresinski");
 
 
 //1
 //Console.WriteLine("Cachoeiro de itapemirim")
+
+
+
+
+
 
 
 
