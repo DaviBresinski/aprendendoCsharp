@@ -1,5 +1,55 @@
-﻿//8
+﻿//10
+// System.Console.WriteLine("escreva o primeiro numero");
 
+// double primeiro = Convert.ToInt64(Console.ReadLine());
+
+// System.Console.WriteLine("escreva o segundo numero");
+
+// double segundo = Convert.ToInt64(Console.ReadLine());
+
+// int[] numeros = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+// foreach (var item in numeros)
+// {
+
+//     if ( segundo == 0 || primeiro == 0)
+//     {
+//         System.Console.WriteLine("valores invalidos");
+//          break;
+//     }
+//     else{
+//         System.Console.WriteLine("valores validos");
+//         break;
+//     }
+// }
+
+
+//9
+// System.Console.WriteLine("escreva o primeiro numero");
+
+// double primeiro = Convert.ToInt64(Console.ReadLine());
+
+// System.Console.WriteLine("escreva o segundo numero");
+
+// double segundo = Convert.ToInt64(Console.ReadLine());
+
+// int[] numeros = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+// foreach (var item in numeros)
+// {
+
+//     if ( segundo == 0)
+//     {
+//          break;
+//     }
+// }
+
+// double divisao =  primeiro / segundo;
+
+// var casas = Convert.ToDouble(divisao);
+
+
+// Console.WriteLine(divisao.ToString("N2"));
+
+//8
 
 //8.1-8.4
 // var produto = 3000;
@@ -35,20 +85,14 @@
 // System.Console.WriteLine(@"depois da troca A = {0} B = {1}", A, B );
 
 //8.6
-System.Console.WriteLine("escreva um numero de 4 digitos");
+// System.Console.WriteLine("escreva um numero de 4 digitos");
 
-var numero = Convert.ToInt64(Console.ReadLine());
+// var numero = Console.ReadLine();
 
-var um = numero / 1000;
-var dois = numero / 100;
-// for (int i = 0; i < 4; i++);
+// for (int i = 0; i < 4; i++)
 // {
-//     System.Console.WriteLine("\n");
+//   System.Console.WriteLine(numero[i]);
 // }
-
-System.Console.WriteLine(um);
-
-System.Console.WriteLine(dois);
 // if(numero < 1000 || numero > 9999);
 // {
 //     break;
