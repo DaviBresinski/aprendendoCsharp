@@ -39,20 +39,78 @@ System.Console.WriteLine("escreva um numero de 4 digitos");
 
 var numero = Convert.ToInt64(Console.ReadLine());
 
-if(numero < 1000 || numero > 9999);
-{
-    break;
-}
-System.Console.WriteLine(numero);
-else {
+var um = numero / 1000;
+var dois = numero / 100;
+// for (int i = 0; i < 4; i++);
+// {
+//     System.Console.WriteLine("\n");
+// }
 
-}
+System.Console.WriteLine(um);
 
+System.Console.WriteLine(dois);
+// if(numero < 1000 || numero > 9999);
+// {
+//     break;
+// }
+// System.Console.WriteLine(numero);
+// else {
 
+// }
 
+//8.7
+// System.Console.WriteLine("escreva o tempo em segundos");
 
+// var segundos = Convert.ToInt64(Console.ReadLine());
 
+// var minutos = segundos / 60;
 
+// var horas = minutos / 60;
+
+// System.Console.WriteLine("horas: "+horas);
+
+// System.Console.WriteLine("minutos: "+minutos);
+
+// System.Console.WriteLine("segundos: "+segundos);
+
+//8.8
+// System.Console.WriteLine("escreva qual a premio da loteria");
+
+// var premio = Convert.ToInt64(Console.ReadLine());
+
+// System.Console.WriteLine("quanto o primeiro amigo apostou");
+
+// var primeiro = Convert.ToInt64(Console.ReadLine());
+
+// System.Console.WriteLine("quanto o segundo amigo apostou");
+
+// var segundo = Convert.ToInt64(Console.ReadLine());
+
+// System.Console.WriteLine("quanto o terceiro amigo apostou");
+
+// var terceiro = Convert.ToInt64(Console.ReadLine());
+
+// var aposta = primeiro + segundo + terceiro;
+
+// var dez = 10 * aposta / 100;
+
+// var partePo = primeiro * 10 / dez;
+
+// var parteSo = segundo * 10 / dez;
+
+// var parteTo = terceiro * 10 / dez;
+
+// var parteP = partePo * premio / 100;
+
+// var parteS = parteSo * premio / 100;
+
+// var parteT = parteTo * premio / 100;
+
+// System.Console.WriteLine("Premio do primeiro amigo: "+parteP);
+
+// System.Console.WriteLine("Premio do segundo amigo: "+parteS);
+
+// System.Console.WriteLine("Premio do terceiro amigo: "+parteT);
 
 //7
 //1 = 4.89
