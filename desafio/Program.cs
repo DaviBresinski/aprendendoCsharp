@@ -118,43 +118,43 @@
 // System.Console.WriteLine("segundos: "+segundos);
 
 //8.8
-// System.Console.WriteLine("escreva qual a premio da loteria");
+System.Console.WriteLine("escreva qual a premio da loteria");
 
-// var premio = Convert.ToInt64(Console.ReadLine());
+var premio = Convert.ToInt64(Console.ReadLine());
 
-// System.Console.WriteLine("quanto o primeiro amigo apostou");
+System.Console.WriteLine("quanto o primeiro amigo apostou");
 
-// var primeiro = Convert.ToInt64(Console.ReadLine());
+var primeiro = Convert.ToInt64(Console.ReadLine());
 
-// System.Console.WriteLine("quanto o segundo amigo apostou");
+System.Console.WriteLine("quanto o segundo amigo apostou");
 
-// var segundo = Convert.ToInt64(Console.ReadLine());
+var segundo = Convert.ToInt64(Console.ReadLine());
 
-// System.Console.WriteLine("quanto o terceiro amigo apostou");
+System.Console.WriteLine("quanto o terceiro amigo apostou");
 
-// var terceiro = Convert.ToInt64(Console.ReadLine());
+var terceiro = Convert.ToInt64(Console.ReadLine());
 
-// var aposta = primeiro + segundo + terceiro;
+var aposta = primeiro + segundo + terceiro;
 
-// var dez = 10 * aposta / 100;
+var dez = 10 * aposta / 100;
 
-// var partePo = primeiro * 10 / dez;
+long partePo = primeiro * 10 / dez;
 
-// var parteSo = segundo * 10 / dez;
+var parteSo = segundo * 10 / dez;
 
-// var parteTo = terceiro * 10 / dez;
+var parteTo = terceiro * 10 / dez;
 
-// var parteP = partePo * premio / 100;
+var parteP = partePo * premio / 100;
 
-// var parteS = parteSo * premio / 100;
+var parteS = parteSo * premio / 100;
 
-// var parteT = parteTo * premio / 100;
+var parteT = parteTo * premio / 100;
 
-// System.Console.WriteLine("Premio do primeiro amigo: "+parteP);
+System.Console.WriteLine("Premio do primeiro amigo: "+parteP);
 
-// System.Console.WriteLine("Premio do segundo amigo: "+parteS);
+System.Console.WriteLine("Premio do segundo amigo: "+parteS);
 
-// System.Console.WriteLine("Premio do terceiro amigo: "+parteT);
+System.Console.WriteLine("Premio do terceiro amigo: "+parteT);
 
 //7
 //1 = 4.89
@@ -253,7 +253,7 @@
 //     case "5":
 //     Console.WriteLine(tete.ToString("N5"));
 //     break;
-    
+
 //     default:
 //     Console.WriteLine(tete.ToString("N1"));
 //     break;
@@ -295,3 +295,14 @@
 // string texto = String.Format(@"Eu {0} {1} sou um preguiçoso", nome, nome );
 
 // System.Console.WriteLine(texto);
+
+
+
+//FUNCAO
+
+// long partePo = Partemetodo(primeiro, dez);
+
+// static long Partemetodo(long primeiro, long dez)
+// {
+//     return primeiro * 10 / dez;
+// }
